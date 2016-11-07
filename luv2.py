@@ -15,6 +15,6 @@ def luv_approach(f,u)
     elif f <20 or u >= 2:
         return "Getting to know the intriguing strangers and being inspired by urgencies and point of views that lay outside one's own filter-bubble..."
     else:
-            return "The werewolves are watching you!"
+        return "The werewolves are watching you!"
 
 luv_approach() #add your arguments here!
