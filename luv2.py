@@ -12,7 +12,7 @@ def luv_approach(f,u)
     # u = number of shared urgencies
     if f >= 20 and u == 1:
         return "Tackle the shared urgency and explore it from diffrent angles for the five following days!"
-    elif f <20 or u >= 2:
+    elif f < 20 or u >= 2:
         return "Getting to know the intriguing strangers and being inspired by urgencies and point of views that lay outside one's own filter-bubble..."
     else:
         return "The werewolves are watching you!"
