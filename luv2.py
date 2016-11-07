@@ -2,9 +2,9 @@
 
 potential_content = raw_input("Name one of your urgencies?")
 potential_collegues = raw_input("Who shares this urgency with you?")
-poetential_methode = raw_input("How do you want to approach this shared urgency?")
+potential_methode = raw_input("How do you want to approach this shared urgency?")
 
-    print "Imagine yourself far away on top of a hill inside and around a castle with %s, envisioning the future of %s, while %s." % (potential_collegues,potential_content,poetential_methode)
+    print "Imagine yourself far away on top of a hill inside and around a castle with %s, envisioning the future of %s, while %s." % (potential_collegues,potential_content,potential_methode)
 #It may sound creepy, but trust me it's not. ;-)
 
 def luv_approach(f,u)
